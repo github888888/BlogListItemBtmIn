@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\java_workspace\\BlogListItemBtmIn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_item_layout.xml",
+        "source": "D:\\java_workspace\\BlogListItemBtmIn\\app\\src\\main\\res\\layout\\text_item_layout.xml"
+    },
+    {
+        "merged": "D:\\java_workspace\\BlogListItemBtmIn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\circle_text_layout.xml",
+        "source": "D:\\java_workspace\\BlogListItemBtmIn\\app\\src\\main\\res\\layout\\circle_text_layout.xml"
+    },
+    {
+        "merged": "D:\\java_workspace\\BlogListItemBtmIn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_layout.xml",
+        "source": "D:\\java_workspace\\BlogListItemBtmIn\\app\\src\\main\\res\\layout\\item_layout.xml"
+    },
+    {
+        "merged": "D:\\java_workspace\\BlogListItemBtmIn\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\java_workspace\\BlogListItemBtmIn\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

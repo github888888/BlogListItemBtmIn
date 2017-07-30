@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f34c9c1546ea40606fa34bd08de7629af359652e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\java_workspace\BlogListItemBtmIn\app\build\intermediates\pre-dexed\debug\classes_9fc95dd2979505df8b6bcecd05b34dc8ba4c76f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\1f3031e0826f7dfc5ae48bec4a4b4547aebffab7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\java_workspace\BlogListItemBtmIn\app\build\intermediates\pre-dexed\debug\classes_238549361bdfbeca21b5f06065ba3127314cf392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\soft\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\java_workspace\BlogListItemBtmIn\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_ca6bd7478915f913083caa902761102ee45ced68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\4a71436b75403d7c655cb1b2e04d02a89cb495ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\java_workspace\BlogListItemBtmIn\app\build\intermediates\pre-dexed\debug\classes_e37aac3b24ba9de4d27ff6e421ead56a8c541a53.jar" />
+    </item>
+
+</items>
