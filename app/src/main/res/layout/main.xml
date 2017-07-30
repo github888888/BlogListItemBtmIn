@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@drawable/pic1">
+<!--
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:listSelector="#00000000"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:divider="@null"
+        android:dividerHeight="0dp" />
+
+    <View
+        android:background="@drawable/gradient_shader"
+        android:layout_width="150dp"
+        android:layout_alignTop="@id/list"
+        android:layout_alignLeft="@id/list"
+        android:layout_height="30dp"/>-->
+    <TextView
+        android:id="@+id/tv_test"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="test"/>
+</RelativeLayout>
+
